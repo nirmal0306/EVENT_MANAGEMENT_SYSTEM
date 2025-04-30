@@ -71,7 +71,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application that allows use
 git clone https://github.com/nirmal0306/EVENT_MANAGEMENT_SYSTEM.git
 cd EVENT_MANAGEMENT_SYSTEM
 
-# 2. Install dependencies
+2. Install dependencies
 
 Client
 
@@ -85,20 +85,20 @@ cd ../server
 
 npm install
 
-# 3. Setup .env file in /server
+3. Setup .env file in /server
 
 MONGO_URI=your_mongodb_connection_string
 
 JWT_SECRET=your_secret_key
 
-# 4. Run the application
-# Start backend
+4. Run the application
+Start backend
 
 cd server
 
 npm start
 
-# In another terminal, start frontend
+In another terminal, start frontend
 
 cd client
 
