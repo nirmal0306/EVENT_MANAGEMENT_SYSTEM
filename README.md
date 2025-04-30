@@ -85,11 +85,10 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 
 4. Run the application
-
 Start backend
 cd server
 npm start
-In another terminal, start frontend
 
+In another terminal, start frontend
 cd client
 npm start
