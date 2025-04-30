@@ -32,7 +32,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application that allows use
 
 ## 📁 Folder Structure
 
-EVENT_MANAGEMENT_SYSTEM/ 
+# EVENT_MANAGEMENT_SYSTEM/ 
 
 ├── client/ 
 
