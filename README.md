@@ -32,4 +32,18 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application that allows use
 
 ## 📁 Folder Structure
 
-EVENT_MANAGEMENT_SYSTEM/ ├── client/ # React frontend │ ├── src/ │ ├── public/ │ └── package.json ├── server/ # Node/Express backend │ ├── models/ │ ├── routes/ │ ├── controllers/ │ └── server.js ├── .gitignore └── README.md
+EVENT_MANAGEMENT_SYSTEM/ 
+├── client/ 
+# React frontend │ 
+├── src/
+│ ├── public/
+│ └── package.json 
+├── server/ 
+# Node/Express backend │
+├── models/
+│ ├── routes/
+│ ├── controllers/ 
+│ └── server.js 
+├── .gitignore 
+└── README.md
+
