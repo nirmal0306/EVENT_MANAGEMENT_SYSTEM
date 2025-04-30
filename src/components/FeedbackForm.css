@@ -1,0 +1,44 @@
+.feedback-container {
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  color: #000;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.feedback-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  margin-bottom: 5px;
+  font-size: 1.1em;
+}
+
+textarea {
+  resize: none;
+}
+
+textarea::placeholder {
+  color: black !important; /* Force black color */
+  opacity: 1; /* Ensure full visibility */
+}
+
+.btn {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #218838;
+}
